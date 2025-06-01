@@ -26,5 +26,8 @@ package.json             # Dependências e scripts
 ## Instalar dependências
 
 ```npm install```
-## Executar os testes no modo headless
+## Executar os testes no modo interativo
+```npx cypress open```
+
+## Executar os testes no modo headless(linha de comando)
 ```npx cypress run```
